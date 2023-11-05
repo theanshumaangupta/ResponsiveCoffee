@@ -1,0 +1,59 @@
+.sec7{
+    background-color: black;
+    width: 100vw;
+    min-height: 70vh;
+    color: white;
+}
+.our-vlog-h1{
+    font-size: clamp(1.5rem, 1.3644rem + 0.678vw, 2rem);
+    padding: 2.5rem 0;
+    background-color: black;
+    color: rgb(252, 174, 28);
+}
+.our-vlog-div{
+    width: 90%;
+    max-width: 80rem;
+    min-height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 1%;
+    
+}
+.vlog-card{
+    text-align: left;
+    padding-bottom: 1rem;
+    flex-basis: 33%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 27rem;
+    border: 1px solid rgba(33, 33, 33, 0.8);
+}
+.vlog-card img{
+    width: 320px;
+}
+.vlog-card h1{
+    padding: 0rem 0 0rem 2rem;
+    font-size: 21px;
+}
+.vlog-card h2{
+    padding: 0rem 0 0rem 2rem;
+    font-size: 15px;
+    
+}
+.vlog-card p{
+    padding: 0rem 0 0rem 2rem;
+    font-size: 13px;
+
+}
+.vlog-card button{
+    margin-left: 2rem;
+    background-color: rgba(250, 168, 68, 0.7);
+    border: none;
+    padding: 0.6rem 1.7rem;
+    width: max-content;
+}

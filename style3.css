@@ -1,0 +1,49 @@
+.sec3{
+    background-color: black;
+    padding: ;
+    width: 100vw;
+    background-color: black;
+    max-width: 100%;
+    min-height: 90vh;
+    color: white;
+}
+.menu-div{
+    max-width: 80rem;
+    min-height: 40vh;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.our-menu{
+    font-size: clamp(1.5rem, 1.3644rem + 0.678vw, 2rem);
+    padding: 2rem 0;
+    background-color: black;
+    color: rgb(252, 174, 28);
+}
+.menu-item{
+    height:17rem ;
+    flex-basis: 32%;
+    margin: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid rgba(146, 146, 146, 0.8);
+    padding: 1rem 0;
+}
+.menu-item img{
+
+}
+.menu-item h1{
+    
+}
+.menu-item p{
+
+}
+.menu-item button{
+    background-color: rgba(250, 168, 68, 0.7);
+    border: none;
+    padding: 0.6rem 1.7rem;
+    width: max-content;
+}
