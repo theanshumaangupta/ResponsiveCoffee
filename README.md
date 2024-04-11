@@ -1,2 +1,2 @@
 # ResponsiveCoffee
-https://theanshumaangupta.github.io/ResponsiveCoffee/
+[Website](https://theanshumaangupta.github.io/TheResponsiveCoffee/)
